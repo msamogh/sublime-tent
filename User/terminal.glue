@@ -1,0 +1,72 @@
+█ [ /home/msamogh/.config/sublime-text-3/Packages/User ] ls
+Package Control.cache
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.sublime-settings
+Package Control.user-ca-bundle
+Preferences.sublime-settings
+terminal.glue
+
+█ [ /home/msamogh/.config/sublime-text-3/Packages/User ] glue path
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+
+█ [ /home/msamogh/.config/sublime-text-3/Packages/User ] echo h
+h
+
+█ [ /home/msamogh/.config/sublime-text-3/Packages/User ] ls
+Package Control.cache
+Package Control.last-run
+Package Control.merged-ca-bundle
+Package Control.sublime-settings
+Package Control.user-ca-bundle
+Preferences.sublime-settings
+terminal.glue
+
+█ [ /home/msamogh/.config/sublime-text-3/Packages/User ] clear
+TERM environment variable not set.
+
+█ [ /home/msamogh/.config/sublime-text-3/Packages ] cd ..
+/home/msamogh/.config/sublime-text-3/Packages
+
+█ [ /home/msamogh ] cd /home/msamogh
+/home/msamogh
+
+█ [ /home/msamogh ] ls
+college
+Desktop
+dev
+Documents
+Downloads
+fonts
+fun
+lit
+Music
+nltk_data
+Pictures
+Public
+Templates
+util
+Videos
+
+█ [ /home/msamogh ] python
+
+█ [ /home/msamogh ] 3+3
+/bin/sh: 1: 3+3: not found
+
+█ [ /home/msamogh ] python
+
+█ [ /home/msamogh ] 3
+/bin/sh: 1: 3: not found
+
+█ [ /home/msamogh ] python3
+
+█ [ /home/msamogh ] 4
+/bin/sh: 1: 4: not found
+
+█ [ /home/msamogh ] >>
+/bin/sh: 1: Syntax error: end of file unexpected
+
+█ [ /home/msamogh ] echo 34
+34
+
+ 

@@ -1,0 +1,7 @@
+[
+{
+    "id" : "entityToCharacter",
+    "caption" : "Convert entities to characters",
+    "command" : "entity_to_character"
+}
+]
